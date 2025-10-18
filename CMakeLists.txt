@@ -7,3 +7,4 @@ add_executable(asesoria_progra_ii main.cpp)
 add_executable(p2 luchadores_clase.cpp
         CLuchador/CLuchador.cpp
         CLuchador/CLuchador.h)
+add_executable(p3 pupiletras.cpp)
